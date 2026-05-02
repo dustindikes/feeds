@@ -6,8 +6,6 @@ This is by no means top quality coding, it was thrown together to solve a proble
 
 This requires PHP and python to run.
 
-**Project page:** [l:https://tilde.town/~dustin/projects/feeds](l:https://tilde.town/~dustin/projects/feeds)
-
 ## Setup
 
 Place the contents of the repo in a directory called **feeds** inside your root web directory (such as **/var/www/html/feeds**).
